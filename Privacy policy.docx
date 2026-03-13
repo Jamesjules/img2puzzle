@@ -1,0 +1,113 @@
+img2puzzle
+Privacy Policy
+Effective Date: March 13, 2026
+Last Updated: March 13, 2026
+Developer: RazCorp  |  Contact: razcorp86@gmail.com
+
+1. Introduction
+Welcome to img2puzzle, a jigsaw puzzle application developed by RazCorp. This Privacy Policy explains how we collect, use, and protect information when you use our mobile application ("App") available on the Google Play Store.
+By downloading and using img2puzzle, you agree to the practices described in this Privacy Policy. If you do not agree with this policy, please do not use the App.
+
+2. Information We Collect
+2.1 Information You Provide
+img2puzzle does not require you to create an account or provide any personal information to use the App. The following optional interactions may involve your data:
+•	Photos from your device gallery, if you choose to use your own images as puzzle content. These images are accessed locally on your device and are never uploaded to our servers.
+•	In-app purchase information, processed entirely by Google Play. We do not collect or store your payment details.
+2.2 Information Collected Automatically
+When you use the App, the following information may be collected automatically:
+•	Device information such as device model, operating system version, and unique device identifiers
+•	App usage data such as puzzle completion counts, difficulty preferences, and session duration
+•	Crash reports and diagnostic data to help us improve app stability
+•	Advertising data collected by Google AdMob (see Section 4)
+2.3 Information We Do NOT Collect
+•	We do not collect your name, email address, or any contact information
+•	We do not access your contacts, microphone, camera, or location
+•	We do not collect your photos unless you explicitly choose to use them as puzzle images
+•	We do not sell, rent, or trade your personal information to third parties
+
+3. How We Use Information
+We use the information collected to:
+•	Provide and improve the App's functionality and user experience
+•	Save your settings and preferences locally on your device
+•	Track puzzle completion counts for in-app progress (stored locally)
+•	Display relevant advertisements through Google AdMob
+•	Process and verify in-app purchases through Google Play Billing
+•	Diagnose and fix technical problems and crashes
+•	Analyze usage patterns to improve future app versions
+
+4. Advertising (Google AdMob)
+img2puzzle uses Google AdMob to display advertisements. AdMob may collect and use data to serve personalized or non-personalized ads. This includes:
+•	Advertising ID (a resettable device identifier)
+•	IP address and general location (country/region level)
+•	Device information and app usage patterns
+•	Ad interaction data (views, clicks)
+Google AdMob's data collection and use is governed by Google's Privacy Policy, available at: https://policies.google.com/privacy
+You can opt out of personalized advertising at any time by:
+•	Going to your device Settings > Google > Ads > Opt out of Ads Personalization
+•	Purchasing the "Remove Ads" in-app purchase within the App, which permanently removes all advertisements
+We do not display any advertisements during active puzzle gameplay. Ads are shown only on the home screen and after puzzle completion.
+
+5. In-App Purchases
+img2puzzle offers a one-time "Remove Ads" purchase. This transaction is processed entirely by Google Play Billing. We do not collect, store, or have access to your payment information.
+Your purchase status is stored locally on your device and verified through Google Play. If you reinstall the App or change devices, you can restore your purchase through Google Play at no additional charge.
+All purchases are subject to Google Play's Terms of Service and refund policies.
+
+6. Data Storage and Security
+6.1 Local Storage
+The following data is stored locally on your device only:
+•	App settings and preferences (theme, hint mode, sound settings)
+•	Puzzle completion count for progress tracking
+•	Remove Ads purchase status
+This data is stored using Android's SharedPreferences and is never transmitted to our servers.
+6.2 Third-Party Servers
+Data transmitted to third-party servers is limited to:
+•	AdMob advertising data (if ads are enabled) — governed by Google's Privacy Policy
+•	Google Play Billing data for purchase verification — governed by Google Play's Terms
+•	Crash reporting data — used solely for app improvement
+6.3 Security
+We implement reasonable technical measures to protect your information. However, no method of electronic storage or transmission is 100% secure. We cannot guarantee absolute security of data transmitted through third-party services such as AdMob or Google Play.
+
+7. Children's Privacy
+img2puzzle is a general-audience puzzle game suitable for all ages. We do not knowingly collect personal information from children under the age of 13 (or the applicable age in your jurisdiction).
+The App does not contain content directed specifically at children, and we do not knowingly market to children. If you believe your child has provided personal information through the App, please contact us at razcorp.dev@gmail.com and we will take appropriate steps to delete such information.
+Advertising within the App is provided by Google AdMob, which has its own policies regarding child-directed content. We have configured our AdMob implementation in accordance with applicable children's privacy laws.
+
+8. App Permissions
+img2puzzle requests the following Android permissions:
+•	READ_EXTERNAL_STORAGE / READ_MEDIA_IMAGES — To allow you to select your own photos as puzzle images. This is only triggered when you choose to use a personal photo and is never accessed automatically.
+•	INTERNET — Required for displaying advertisements (AdMob) and verifying in-app purchases (Google Play Billing).
+•	BILLING — Required for processing the Remove Ads in-app purchase.
+We do not request permissions for location, contacts, microphone, camera, or any other sensitive data.
+
+9. Third-Party Services
+img2puzzle integrates the following third-party services, each governed by their own privacy policies:
+•	Google AdMob — Advertising platform. Privacy Policy: https://policies.google.com/privacy
+•	Google Play Billing — In-app purchase processing. Terms: https://play.google.com/about/play-terms
+•	Google Play Services — App distribution and updates. Privacy Policy: https://policies.google.com/privacy
+We are not responsible for the privacy practices of these third-party services. We encourage you to review their respective privacy policies.
+
+10. Your Rights and Choices
+You have the following rights regarding your data:
+•	Access: You may request information about data we hold about you
+•	Deletion: You may request deletion of your data by contacting us or uninstalling the App
+•	Opt-out of personalized ads: Available through device settings as described in Section 4
+•	Remove Ads: Purchase the Remove Ads option to eliminate all advertising data collection
+•	Data portability: App settings data is stored locally on your device and accessible to you
+To exercise any of these rights or for any privacy-related inquiries, please contact us at razcorp86@gmail.com.
+
+11. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, or legal requirements. When we make changes, we will:
+•	Update the "Last Updated" date at the top of this policy
+•	Notify users through an in-app notification for significant changes
+•	Post the updated policy at our privacy policy URL
+Your continued use of the App after any changes constitutes your acceptance of the updated Privacy Policy. We encourage you to review this policy periodically.
+
+12. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
+Developer:  RazCorp
+Email:  razcorp86@gmail.com
+App:  img2puzzle
+Package ID:  com.razcorp.img2puzzle
+Country:  India
+
+This Privacy Policy was prepared for img2puzzle by RazCorp. All rights reserved.
